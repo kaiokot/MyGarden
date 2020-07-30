@@ -1,2 +1,2 @@
 # MyGarden
-My Garden sample scaffolding CLI example
+My Garden webapp scaffolding CLI example
